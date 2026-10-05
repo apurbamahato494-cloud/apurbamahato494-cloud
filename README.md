@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Apurba Mahato 👋
 
-<!--
-**apurbamahato494-cloud/apurbamahato494-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science and Engineering (AI) student passionate about building backend architectures, voice agents, and practical AI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- 🛠️ Developing backend services with **Python** & **FastAPI**
+- 🎙️ Building conversational & voice AI systems using **Vapi**, **Webhooks**, and **LLMs**
+- 🧠 Practicing data structures, algorithms, and full-stack integration
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C
+- **Frameworks & Backends:** FastAPI, REST APIs
+- **Databases:** SQLite
+- **Tools & Ecosystem:** Git, GitHub, VS Code, ngrok
+
+---
+
+### 📈 GitHub Stats
+![Apurba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apurbamahato494-cloud&show_icons=true&theme=tokyonight)
